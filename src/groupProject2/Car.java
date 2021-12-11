@@ -65,6 +65,7 @@ class Truck extends Car{
              }else{
                  return super.carPrice-(super.carPrice*0.2);
                  System.out.println("Otherwise will get 20% discount");
+
              }
 
          }

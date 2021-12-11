@@ -1,11 +1,9 @@
-package com.syntax.class26.linked;
+package com.syntax.class26.LinkedList;
 
 import java.util.LinkedList;
 
-import java.util.ArrayList;
 
-
-    public class LinkedListDemo1 {
+public class LinkedListDemo1 {
         public static void main(String[] args) {
             LinkedList<String> subjects=new LinkedList<>();
             subjects.add("SDLC");

@@ -1,6 +1,6 @@
 package reviewClasses.reviewClass7;         // package com.syntax.review2;   Teacher Asel
 
-public class House {                       // 1 creaded House
+public class House {                       // 1 creaded House            1 Example  House ==> Community
 
         String color;
         int rooms;
@@ -13,7 +13,7 @@ public class House {                       // 1 creaded House
 
         /* to define a method we MUST
          *
-         * 		OPTIONAL	        OPTIONAL	         MUST       MUST
+         * 		OPTIONAL	        OPTIONAL	         MUST        MUST
          *   access modifier    non access modifier   returnType    name ()
          *
          */

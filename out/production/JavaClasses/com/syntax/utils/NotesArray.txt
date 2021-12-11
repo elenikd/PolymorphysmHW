@@ -1,0 +1,29 @@
+package com.syntax.utils;
+
+public class ArrayList {
+
+
+/// import java.util.*;
+
+
+
+   // private boolean contain(String spain) {
+    }
+
+   // private boolean isEmpty() {
+    }
+
+   // private void add(String brazil) {
+
+    }
+   // boolean size;
+
+   // private boolean contain(String spain) {
+    }
+
+   // private boolean isEmpty() {
+    }
+
+    //private void add(String brazil) {
+
+    }

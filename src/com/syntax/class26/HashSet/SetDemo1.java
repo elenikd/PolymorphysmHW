@@ -1,9 +1,8 @@
-package com.syntax.class26.set;
+package com.syntax.class26.HashSet;
 
 import java.util.HashSet;
-import java.util.LinkedList;
 
-    public class SetDemo1 {
+public class SetDemo1 {
         public static void main(String[] args) {
 
             HashSet<String> hashSet=new HashSet<>();

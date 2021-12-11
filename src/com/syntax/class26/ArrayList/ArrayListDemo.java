@@ -1,4 +1,4 @@
-package com.syntax.class26.Array;
+package com.syntax.class26.ArrayList;
 
 import java.util.ArrayList;
 

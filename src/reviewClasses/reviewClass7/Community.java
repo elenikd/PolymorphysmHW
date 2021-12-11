@@ -1,6 +1,6 @@
 package reviewClasses.reviewClass7;        // package com.syntax.review2;   Teacher Asel
 
-public class Community {                   // 2 creaded Connunity
+public class Community {                   // 2 creaded Connunity         Example Tester for House
 
         public static void main(String[] args) {
 
